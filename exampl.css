@@ -1,0 +1,60 @@
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+}
+.s,.b,.w,.m{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.h,.f,.s,.t{
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.buy{
+    border-radius: 50px;
+    background-color: aqua;
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+.buyn{
+    border-radius: 50px ;
+    background-color: rgb(193, 113, 253);
+    color: aliceblue;
+    
+}
+.buyno{
+    border-radius: 50px;
+    background-color: rgba(0, 0, 0, 0.838);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.buynow{
+    border-radius: 50px;
+    background-color: rgb(250, 173, 145);
+    color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.s{
+    border: 50px;
+    border-color: rgb(44, 229, 168);
+    border-radius: 50px;
+}
+.shoe{
+    border: 2px solid red;
+    padding: 40px;
+}
+.buybtn{
+    height: 40px;
+    width:100%;
+    background-color: aqua;
+    border-radius: 50px;
+    border-top-width: 30px;
+    
+}
+.head{
+    text-align: center;
+    
+}
